@@ -1,0 +1,7 @@
+name: Ajax View Demo
+type: module
+description: Ajax view module to show to use drupal ajax pagination trick to load another view when user click on a grid of view result.
+core: 8.x
+package: Custom
+dependencies:
+  - views
